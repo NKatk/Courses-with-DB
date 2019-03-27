@@ -1,4 +1,4 @@
-# Courses-with-DB
+# Courses-SPA-with-DB
 
 I used in this project: Node.js(Express), React, MongoDB(Mongoose), Bootstrap4.
 
