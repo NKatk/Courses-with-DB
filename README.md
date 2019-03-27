@@ -1,6 +1,6 @@
 # Courses-with-DB
 
-I used in this project: Node.js(Express), MongoDB(Mongoose), Bootstrap4.
+I used in this project: Node.js(Express), React, MongoDB(Mongoose), Bootstrap4.
 
 How to use this project:
 
